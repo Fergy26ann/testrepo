@@ -4,4 +4,5 @@ void main()
   printf("Hello");
   printf("World\n");
   printf("WELCOMEE ");
+  printf("HAI");
 }
